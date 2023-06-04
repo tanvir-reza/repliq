@@ -1,1 +1,1 @@
-"# repliq" 
+REPLIQ Jr. Django Practical Challenge
